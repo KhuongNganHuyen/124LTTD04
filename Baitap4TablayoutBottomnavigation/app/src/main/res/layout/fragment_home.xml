@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#BDD3F6"
+    tools:context=".fragment.HomeFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:lineSpacingExtra="10dp"
+        android:text="Chào mừng bạn đến với bài tập thú vị về TabLayout và BottomNavigation!!!"
+        android:textColor="#5929AF"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+</RelativeLayout>
